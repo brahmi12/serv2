@@ -1,5 +1,3 @@
 " zip.vim version v27
 " Browsing zipfile /home/br131/cs512/assn3/ramab1S.tar.zip
-" Select a file with cursor and press ENTER
-
-ramab1S.tar
+" Select a file with cursor and press 
